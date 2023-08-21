@@ -1,7 +1,7 @@
 # README
 
 <div align="center">
-<img src="/uploads/6f14ff0bbf3b6baf60140cbc2c6f6ff7/로고.png" width="600px" />
+<img src="https://github.com/hanb613/TalKids/assets/60910288/92cb1a91-daf1-4e35-8c6b-d81d2ec91a08" width="500px" />
 </div>
 
 <br>  
@@ -53,23 +53,24 @@ TALKIDS는 언어 교류를 촉진하고 기존의 제약조건을 극복하는 
 
 ## 💻 실행 화면
 
-|그룹페이지|로그인 후 메인페이지|
+|로그인 후 메인페이지|메인화면 레벨1|
 | --- | --- |
-|<img src="/uploads/99da41bc9455efc9fc0d28eb2695f6c9/그룹페이지.gif" width="800px"/>|<img src="/uploads/6024422308a2018c4f4997c29b4f4d99/로그인_후_메인.gif" width="800px"/>|
+|<img src="https://github.com/hanb613/TalKids/assets/60910288/96e417dd-62c4-47e5-a267-3455a32bea84" width="800px"/>|<img src="https://github.com/hanb613/TalKids/assets/60910288/2ff420ff-55bb-41c9-a06e-abb28f4ef5e2" width="800px"/>|
 
-
-|메인화면 레벨1|메인화면 레벨2|
+|메인화면 레벨2|메인화면 레벨3|
 | --- | --- |
-|<img src="/uploads/33123e04f198663c59f8f95967818c3f/메인_레벨1.gif" width="800px"/>|<img src="/uploads/b295f008b70d3b4469c949b1c1a5b245/메인_레벨2.gif" width="800px"/>|
+|<img src="https://github.com/hanb613/TalKids/assets/60910288/87cc38c5-8386-49a2-8738-586d37fff354" width="800px"/>|<img src="https://github.com/hanb613/TalKids/assets/60910288/96397d8a-6457-4239-8da9-63b730c5b86b" width="800px"/>|
 
-|메인화면 레벨3|번역 및 사전|
+|그룹페이지|팔로우 기능|
 | --- | --- |
-|<img src="/uploads/f90a8933deb2aaefa4e6ec646be75058/메인_레벨3.gif" width="800px"/>|<img src="/uploads/3e70a74b2de78f33731c9fc439ddba99/번역__사전.gif" width="800px"/>|
+|<img src="https://github.com/hanb613/TalKids/assets/60910288/bba4f09e-e2d5-4e18-9eb4-104f57213f19" width="800px"/>|<img src="https://github.com/hanb613/TalKids/assets/60910288/0b9ea0e4-ef4c-4259-94fe-2141331a88a1" width="800px"/>|
 
 
-|팔로우 기능|학생 매칭 기능|
+|번역 및 사전|학생 매칭 기능|
 | --- | --- |
-|<img src="/uploads/e12bf7813e525ae133ca5730b2e7edaf/팔로우_기능.gif" width="800px"/>|<img src="/uploads/851480ea4bb4b5f91ff9c92a0166aa21/학생_매칭_기능.gif" width="800px"/>|
+|<img src="https://github.com/hanb613/TalKids/assets/60910288/84ac6faf-8b13-4e5e-942d-15294644a106" width="800px"/>|<img src="https://github.com/hanb613/TalKids/assets/60910288/deeed7a6-47b3-4c6d-8467-20a17d28cb64" width="800px"/>|
+
+<br>  
 
 <br>  
 
@@ -77,14 +78,14 @@ TALKIDS는 언어 교류를 촉진하고 기존의 제약조건을 극복하는 
 ## ⚙️ 기술 스택
 
 ### Frontend
-
+<div>
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 <img src="https://img.shields.io/badge/three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white">
 <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white">
-
+</div>
 
 ### **Backend**
-
+<div>
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/jpa-6DB33F?style=for-the-badge&logo=javapersistenceapi&logoColor=white">
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
@@ -92,36 +93,37 @@ TALKIDS는 언어 교류를 촉진하고 기존의 제약조건을 극복하는 
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
 <img src="https://img.shields.io/badge/socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white">
+</div>
 
 ### **Infra**
-
+<div>
 <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
 <img src="https://img.shields.io/badge/amazonec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
 <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
-
+</div>
 
 ### **Cooperation**
-
+<div>
 <img src="https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white">
 <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
 <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-<img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"> <br>  
-
+<img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+</div>  <br>  
 
 <br>  
 
   
 ## 📊 ERD
 
-<img src="/uploads/206e8e09d9e7b41addfb9885a0bf4b71/ERDCloud.png" width="700px"/>  <br>  
+<img src="https://github.com/hanb613/TalKids/assets/60910288/d5a3c916-59b1-4a77-841b-9f694f98273e" width="700px"/>  <br>  
 
 <br>  
  
   
 ## 📄 아키텍처 설계도
 
-<img src="/uploads/cef1a59d22bdecf3a9a008fe44973570/시스템_구조도.png" width="700px"/>  <br>  
+<img src="https://github.com/hanb613/TalKids/assets/60910288/39488dc6-56d7-4427-9ef5-43e00e484c08" width="500px"/>  <br>  
 
 <br>  
 
