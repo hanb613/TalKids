@@ -70,7 +70,8 @@ TALKIDS는 언어 교류를 촉진하고 기존의 제약조건을 극복하는 
 | --- | --- |
 |<img src="https://github.com/hanb613/TalKids/assets/60910288/84ac6faf-8b13-4e5e-942d-15294644a106" width="800px"/>|<img src="https://github.com/hanb613/TalKids/assets/60910288/deeed7a6-47b3-4c6d-8467-20a17d28cb64" width="800px"/>|
 
-<br>  
+<a href="https://youtu.be/xUB10RPruSQ">🎬 화상 전화 & 실시간 번역</a>
+
 
 <br>  
 
