@@ -1,5 +1,3 @@
-# README
-
 <div align="center">
 <img src="https://github.com/hanb613/TalKids/assets/60910288/92cb1a91-daf1-4e35-8c6b-d81d2ec91a08" width="500px" />
 </div>
