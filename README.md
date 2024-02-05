@@ -61,7 +61,7 @@ TALKIDS는 언어 교류를 촉진하고 기존의 제약조건을 극복하는 
 
 |그룹페이지|팔로우 기능|
 | --- | --- |
-|<img src="https://github.com/hanb613/TalKids/assets/60910288/5743cacf-f209-417e-9cc2-3b6319d5526d" width="478"/>|<img src="https://github.com/hanb613/TalKids/assets/60910288/7989d204-2ec4-405b-86e8-d9e910b4f1cb"/>|
+|<img src="https://github.com/hanb613/TalKids/assets/60910288/5743cacf-f209-417e-9cc2-3b6319d5526d"/>|<img src="https://github.com/hanb613/TalKids/assets/60910288/7989d204-2ec4-405b-86e8-d9e910b4f1cb"/>|
 
 
 |번역 및 사전|학생 매칭 기능|
