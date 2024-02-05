@@ -53,20 +53,20 @@ TALKIDS는 언어 교류를 촉진하고 기존의 제약조건을 극복하는 
 
 |로그인 후 메인페이지|메인화면 레벨1|
 | --- | --- |
-|<img src="https://github.com/hanb613/TalKids/assets/60910288/f931e91f-0245-4a82-ba81-44b682a33e96" width="800px"/>|<img src="https://github.com/hanb613/TalKids/assets/60910288/6fb409d0-7b04-46ed-9673-15968f49b203" width="800px"/>|
+|<img src="https://github.com/hanb613/TalKids/assets/60910288/f931e91f-0245-4a82-ba81-44b682a33e96"/>|<img src="https://github.com/hanb613/TalKids/assets/60910288/6fb409d0-7b04-46ed-9673-15968f49b203"/>|
 
 |메인화면 레벨2|메인화면 레벨3|
 | --- | --- |
-|<img src="https://github.com/hanb613/TalKids/assets/60910288/b832d775-dd8c-4f5d-8e17-3722f79b1e9b" width="800px"/>|<img src="https://github.com/hanb613/TalKids/assets/60910288/ef7cbfd7-2e98-42c7-b22f-95a5ac24b089" width="800px"/>|
+|<img src="https://github.com/hanb613/TalKids/assets/60910288/b832d775-dd8c-4f5d-8e17-3722f79b1e9b"/>|<img src="https://github.com/hanb613/TalKids/assets/60910288/ef7cbfd7-2e98-42c7-b22f-95a5ac24b089"/>|
 
 |그룹페이지|팔로우 기능|
 | --- | --- |
-|<img src="https://github.com/hanb613/TalKids/assets/60910288/5743cacf-f209-417e-9cc2-3b6319d5526d" width="800px"/>|<img src="https://github.com/hanb613/TalKids/assets/60910288/7989d204-2ec4-405b-86e8-d9e910b4f1cb" width="800px"/>|
+|<img src="https://github.com/hanb613/TalKids/assets/60910288/5743cacf-f209-417e-9cc2-3b6319d5526d" width="478"/>|<img src="https://github.com/hanb613/TalKids/assets/60910288/7989d204-2ec4-405b-86e8-d9e910b4f1cb"/>|
 
 
 |번역 및 사전|학생 매칭 기능|
 | --- | --- |
-|<img src="https://github.com/hanb613/TalKids/assets/60910288/cfaf1890-0cea-409a-a8bc-83145ae17f60" width="800px"/>|<img src="https://github.com/hanb613/TalKids/assets/60910288/d561a86b-80a5-481b-a756-fa5ec264f286" width="800px"/>|
+|<img src="https://github.com/hanb613/TalKids/assets/60910288/cfaf1890-0cea-409a-a8bc-83145ae17f60"/>|<img src="https://github.com/hanb613/TalKids/assets/60910288/d561a86b-80a5-481b-a756-fa5ec264f286"/>|
 
 <a href="https://youtu.be/xUB10RPruSQ">🎬 화상 전화 & 실시간 번역</a>
 
